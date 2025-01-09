@@ -1,6 +1,6 @@
 {
   "name": "@ondc-ui/dictionary",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Dictionary token for ONDC design system ",
   "main": "index.js",
   "scripts": {
