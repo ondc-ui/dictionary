@@ -1,0 +1,11 @@
+{
+  "name": "@ondc-ui/dictionary",
+  "version": "1.0.0",
+  "description": "Dictionary token for ONDC design system ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Pratik Sharma <sharma.pratik2016@gmail.com> (@biomathcode)",
+  "license": "MIT"
+}
